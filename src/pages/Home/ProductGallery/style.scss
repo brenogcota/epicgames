@@ -1,0 +1,39 @@
+.gallery--section {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-bottom: 45px;
+
+    &-items {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        grid-gap: 4px;
+    }
+}
+
+.card--default {
+    padding: .5rem 0;
+    max-width: 186px;
+    &:hover {
+        cursor: pointer;
+    }
+
+    img {
+        height: 248px;
+        border-radius: 8px;
+
+        &:hover {
+            opacity: .8;
+        }
+    }
+
+    button {
+        padding: .25rem;
+        border-radius: .25rem;
+    }
+    
+    &-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

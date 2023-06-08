@@ -1,0 +1,49 @@
+@import '../../styles/variables';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 75px;
+    background-color: $dark-light;
+
+    ul {
+        list-style: none;
+    }
+
+    &--left {
+        display: flex;
+        padding-left: 20px;
+
+        ul {
+            display: flex;
+        }
+        ul li {
+            margin-left: 16px;
+        }
+    }
+
+    &--right {
+        display: flex;
+
+        .account {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0 22px;
+
+            span {
+                margin-left: 8px;
+            }
+        }
+
+        button {
+            border-radius: 0;
+            width: 128px;
+            height: 52px;
+        }
+    }
+
+
+    
+}

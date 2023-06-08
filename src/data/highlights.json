@@ -1,0 +1,1477 @@
+{
+    "data": [
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 4121,
+                "originalPrice": 8242,
+                "voucherDiscount": 0,
+                "discount": 4121,
+                "fmtPrice": {
+                    "originalPrice": "R$ 82,42",
+                    "discountPrice": "R$ 41,21",
+                    "intermediatePrice": "R$ 41,21"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "abab68b6d53b4071866ae0795d2271fd",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Grand Theft Auto V: Premium Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg"
+            },
+            {
+                "type": "ESRB",
+                "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/Diesel_productv2_grand-theft-auto-v_home_GTAV_EGS_Artwork_1000x200_ESRB-1000x200-995c56b26d2fd05efdeb9b8e3377700a3f6ba224-1000x200-326c1cad00820a1e642def71677df201.png"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 8970,
+                "originalPrice": 29900,
+                "voucherDiscount": 0,
+                "discount": 20930,
+                "fmtPrice": {
+                    "originalPrice": "R$ 299,00",
+                    "discountPrice": "R$ 89,70",
+                    "intermediatePrice": "R$ 89,70"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "91c6f1b67bc945af839dea32ce41b43e",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "EA SPORTS™ FIFA 23 Standard Edition",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S1_2560x1440-aaf9c5273c27a485f2cce8cb7e804f5c"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S1_2560x1440-aaf9c5273c27a485f2cce8cb7e804f5c"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 9896,
+                "originalPrice": 29990,
+                "voucherDiscount": 0,
+                "discount": 20094,
+                "fmtPrice": {
+                    "originalPrice": "R$ 299,90",
+                    "discountPrice": "R$ 98,96",
+                    "intermediatePrice": "R$ 98,96"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "942d2f36db64421c97e2b68b0e61e11a",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Red Dead Redemption 2",
+        "keyImages": [
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_2560x1440-2560x1440-473f1475daed7424ce5a56d90b56ab68.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 9995,
+                "originalPrice": 19990,
+                "voucherDiscount": 0,
+                "discount": 9995,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,90",
+                    "discountPrice": "R$ 99,95",
+                    "intermediatePrice": "R$ 99,95"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "664662819f974c62813a853ce168f943",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Cyberpunk 2077",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 16743,
+                "originalPrice": 24990,
+                "voucherDiscount": 0,
+                "discount": 8247,
+                "fmtPrice": {
+                    "originalPrice": "R$ 249,90",
+                    "discountPrice": "R$ 167,43",
+                    "intermediatePrice": "R$ 167,43"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "1fae93fa22c144e883468c41a5d059a8",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Marvel's Spider-Man Remastered",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 11994,
+                "originalPrice": 19990,
+                "voucherDiscount": 0,
+                "discount": 7996,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,90",
+                    "discountPrice": "R$ 119,94",
+                    "intermediatePrice": "R$ 119,94"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "ba522ebe15944805bc0e4c31dbabc9a8",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "God of War",
+        "keyImages": [
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S1_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S1_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 4999,
+                "originalPrice": 19999,
+                "voucherDiscount": 0,
+                "discount": 15000,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,99",
+                    "discountPrice": "R$ 49,99",
+                    "intermediatePrice": "R$ 49,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "b7ba24822e314a9099874969c84fc540",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Assassin's Creed® Valhalla Standard Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 6249,
+                "originalPrice": 24999,
+                "voucherDiscount": 0,
+                "discount": 18750,
+                "fmtPrice": {
+                    "originalPrice": "R$ 249,99",
+                    "discountPrice": "R$ 62,49",
+                    "intermediatePrice": "R$ 62,49"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "50e1d330feb24398b112a9d8ae149b85",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Far Cry 6 Standard Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Landscape_2560x1440-2560x1440-827a9d1823ad230a0ea5a2efc7936370.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Landscape_2560x1440-2560x1440-827a9d1823ad230a0ea5a2efc7936370.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 2399,
+                "originalPrice": 5999,
+                "voucherDiscount": 0,
+                "discount": 3600,
+                "fmtPrice": {
+                    "originalPrice": "R$ 59,99",
+                    "discountPrice": "R$ 23,99",
+                    "intermediatePrice": "R$ 23,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "d92982fdc69c477fbbc8eda4258a858a",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Tom Clancy's Rainbow Six® Siege",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/carnation/Share_Image_1920x1080-3_1920x1080-6e2d079f24db0a35285007191358978b"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 8970,
+                "originalPrice": 29900,
+                "voucherDiscount": 0,
+                "discount": 20930,
+                "fmtPrice": {
+                    "originalPrice": "R$ 299,00",
+                    "discountPrice": "R$ 89,70",
+                    "intermediatePrice": "R$ 89,70"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "61a30856e9d64cb585bd365c95d32b6e",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Need for Speed™ Unbound Standard Edition",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S1_2560x1440-d74bb63a1f07cbb6376d28409ed8cca4"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S1_2560x1440-d74bb63a1f07cbb6376d28409ed8cca4"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 13393,
+                "originalPrice": 19990,
+                "voucherDiscount": 0,
+                "discount": 6597,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,90",
+                    "discountPrice": "R$ 133,93",
+                    "intermediatePrice": "R$ 133,93"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "70cb15115e374654ab22b938100e7090",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Marvel’s Spider-Man: Miles Morales",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S1_2560x1440-a0518b9f9f36a05294e37448df8a27a0"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S1_2560x1440-a0518b9f9f36a05294e37448df8a27a0"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 6596,
+                "originalPrice": 19990,
+                "voucherDiscount": 0,
+                "discount": 13394,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,90",
+                    "discountPrice": "R$ 65,96",
+                    "intermediatePrice": "R$ 65,96"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "e47f192c28e64872b54ef16494c115b4",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Horizon Zero Dawn™ Complete Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_tall-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_tall-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_tall-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_tall-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 5714,
+                "originalPrice": 12699,
+                "voucherDiscount": 0,
+                "discount": 6985,
+                "fmtPrice": {
+                    "originalPrice": "R$ 126,99",
+                    "discountPrice": "R$ 57,14",
+                    "intermediatePrice": "R$ 57,14"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "be8b202dbf0c4f8b95d8975fbb278f9c",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Saints Row",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S1_2560x1440-1ba560d3f228fe5c7341777a6ac9abb7"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 14995,
+                "originalPrice": 29990,
+                "voucherDiscount": 0,
+                "discount": 14995,
+                "fmtPrice": {
+                    "originalPrice": "R$ 299,90",
+                    "discountPrice": "R$ 149,95",
+                    "intermediatePrice": "R$ 149,95"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "1ca12c6a047e41d5b669f68ecac1424f",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/fe752703dd2042008ff874fc8642fba3/EGS_GrandTheftAutoTheTrilogyTheDefinitiveEdition_RockstarGames_S2_1200x1600-7a39d7c91aed7cf7c5fafdca4dbb9d1c"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/fe752703dd2042008ff874fc8642fba3/EGS_GrandTheftAutoTheTrilogyTheDefinitiveEdition_RockstarGames_S1_2560x1440-91b2b8d03b48a6408b8219a793244fc3"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/fe752703dd2042008ff874fc8642fba3/EGS_GrandTheftAutoTheTrilogyTheDefinitiveEdition_RockstarGames_S2_1200x1600-7a39d7c91aed7cf7c5fafdca4dbb9d1c"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 2669,
+                "originalPrice": 8899,
+                "voucherDiscount": 0,
+                "discount": 6230,
+                "fmtPrice": {
+                    "originalPrice": "R$ 88,99",
+                    "discountPrice": "R$ 26,69",
+                    "intermediatePrice": "R$ 26,69"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "587715bbc8254d5da752759d05ec8e82",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Cities: Skylines",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 7999,
+                "originalPrice": 19999,
+                "voucherDiscount": 0,
+                "discount": 12000,
+                "fmtPrice": {
+                    "originalPrice": "R$ 199,99",
+                    "discountPrice": "R$ 79,99",
+                    "intermediatePrice": "R$ 79,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "e635ac9cc34c452da996a5cc2d5046ea",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "LEGO® Star Wars™: The Skywalker Saga",
+        "keyImages": [
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440-ae89e9c91aec1e461148f93f25b828ed"
+            },
+            {
+                "type": "ProductLogo",
+                "url": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_IC1_400x400-a56a855c4679eee50ae07792db63a324"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 6990,
+                "originalPrice": 6990,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "fmtPrice": {
+                    "originalPrice": "R$ 69,90",
+                    "discountPrice": "R$ 69,90",
+                    "intermediatePrice": "R$ 69,90"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "title": "Farming Simulator 19",
+        "keyImages": [
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3.jpg"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 19992,
+                "originalPrice": 24990,
+                "voucherDiscount": 0,
+                "discount": 4998,
+                "fmtPrice": {
+                    "originalPrice": "R$ 249,90",
+                    "discountPrice": "R$ 199,92",
+                    "intermediatePrice": "R$ 199,92"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "be56d4f422ea4d45b1fce8fc0e562f53",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Returnal™",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S2_1200x1600-617cb4daee4cf45fa937304bceb60a81"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S2_1200x1600-617cb4daee4cf45fa937304bceb60a81"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S1_2560x1440-f2ffd55138c31d0f9534a749061b2f2a"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S2_1200x1600-617cb4daee4cf45fa937304bceb60a81"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S1_2560x1440-f2ffd55138c31d0f9534a749061b2f2a"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/4c461792757541e99c4a16c00834c956/EGS_Returnal_HousemarqueClimaxStudios_S2_1200x1600-617cb4daee4cf45fa937304bceb60a81"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1499,
+                "originalPrice": 14999,
+                "voucherDiscount": 0,
+                "discount": 13500,
+                "fmtPrice": {
+                    "originalPrice": "R$ 149,99",
+                    "discountPrice": "R$ 14,99",
+                    "intermediatePrice": "R$ 14,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "92df8a2caae24773b77f7aab7d9b18f9",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "The Crew 2 Standard Edition",
+        "keyImages": [
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Landscape_2560x1440_UK_2560x1440-6e2b5c0cbe6d1e0fefab2da7530c5abe"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/UK_TC2_STD_EPIC_Store_Portrait_1200x1600_UK_1200x1600-53de0001cbf86324b0c7d2be18666011"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 2279,
+                "originalPrice": 5699,
+                "voucherDiscount": 0,
+                "discount": 3420,
+                "fmtPrice": {
+                    "originalPrice": "R$ 56,99",
+                    "discountPrice": "R$ 22,79",
+                    "intermediatePrice": "R$ 22,79"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "b178276f766f40ee95925db59c027638",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Alan Wake Remastered",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S2_1200x1600_1200x1600-8024b0d13e7a3f3888cb27df87cf263f"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S2_1200x1600_1200x1600-8024b0d13e7a3f3888cb27df87cf263f"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S2_1200x1600_1200x1600-8024b0d13e7a3f3888cb27df87cf263f"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S1_2560x1440_2560x1440-a49e236a5ac90ad065dd37d8510041ac"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S2_1200x1600_1200x1600-43dd4a2f28f9edbf0ed1461339fc11d4"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/en_Remedy_DEER_S1_2560x1440_2560x1440-cb115f1a44dab465ea27086cebba5c33"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 20099,
+                "originalPrice": 29999,
+                "voucherDiscount": 0,
+                "discount": 9900,
+                "fmtPrice": {
+                    "originalPrice": "R$ 299,99",
+                    "discountPrice": "R$ 200,99",
+                    "intermediatePrice": "R$ 200,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "bc07103e4c1347cda708ca4e0d2beb30",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "The Settlers®: New Allies",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/84f45b7676af47d9adecd3b636466f89/EGST_StoreLandscape_2560x1440_2560x1440-279c0899b9057a074f69988090eac292"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/84f45b7676af47d9adecd3b636466f89/EGST_StorePortrait_1200x1600_1200x1600-adc3de9f03faba15cc9ef7e5762ad96d"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/84f45b7676af47d9adecd3b636466f89/EGST_StorePortrait_1200x1600_1200x1600-adc3de9f03faba15cc9ef7e5762ad96d"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1798,
+                "originalPrice": 11990,
+                "voucherDiscount": 0,
+                "discount": 10192,
+                "fmtPrice": {
+                    "originalPrice": "R$ 119,90",
+                    "discountPrice": "R$ 17,98",
+                    "intermediatePrice": "R$ 17,98"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "71c6894ccfa24f8495049cf5da0e271c",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Borderlands 3",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/catnip/offer/BL3Wide_2560x1440-2560x1440-462318f36bee20de4412e111ef72dc62.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/catnip/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cbjpg_560x760-58be14c3e086e3a85bedcc21c08ab5cb"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/catnip/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cbjpg_560x760-58be14c3e086e3a85bedcc21c08ab5cb"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1497,
+                "originalPrice": 5990,
+                "voucherDiscount": 0,
+                "discount": 4493,
+                "fmtPrice": {
+                    "originalPrice": "R$ 59,90",
+                    "discountPrice": "R$ 14,97",
+                    "intermediatePrice": "R$ 14,97"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "b8f32e9636644b3db4a1e9fbb4eb60f3",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Overcooked! 2",
+        "keyImages": [
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/2d94b7b33d7f4d02a8fff6fbf71ac7ab/offer/egs-overcooked2-ghosttowngamesandteam17digitalltd-s2-1200x1600-846624393-1200x1600-fbae89fad70c05cd1979316f620e64a9.jpg"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-Wide_2560x1440-808fbab09ed3ab49d6d0107683cbba8b"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-Wide_2560x1440-808fbab09ed3ab49d6d0107683cbba8b"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 4599,
+                "originalPrice": 4599,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "fmtPrice": {
+                    "originalPrice": "R$ 45,99",
+                    "discountPrice": "R$ 45,99",
+                    "intermediatePrice": "R$ 45,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": []
+                }
+            ]
+        },
+        "title": "Darkest Dungeon®",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/offer/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 2699,
+                "originalPrice": 17999,
+                "voucherDiscount": 0,
+                "discount": 15300,
+                "fmtPrice": {
+                    "originalPrice": "R$ 179,99",
+                    "discountPrice": "R$ 26,99",
+                    "intermediatePrice": "R$ 26,99"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "87841b6f5abe4cf1996357c0fca0b23c",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Assassin's Creed Origins Standard Edition",
+        "keyImages": [
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/undefined/offer/S1-ACOD-1920x1080-e467d101a2fc554e331e23fa9ded52e5.jpg"
+            },
+            {
+                "type": "ESRB",
+                "url": "https://cdn1.epicgames.com/camellia/offer/ACORating-842x404-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12001_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-1fc629970a67d3ec95dbce7f08c0a790c0263482.jpg"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5"
+            },
+            {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/offer/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/camellia/ACOrigins_STD_Store_Portrait_1200x1600_1200x1600-4a79f9f393f7a3a9e5be3a0ae581f3d5"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1949,
+                "originalPrice": 12999,
+                "voucherDiscount": 0,
+                "discount": 11050,
+                "fmtPrice": {
+                    "originalPrice": "R$ 129,99",
+                    "discountPrice": "R$ 19,49",
+                    "intermediatePrice": "R$ 19,49"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "6256945a1b844683872cd9accf469285",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "Watch Dogs 2 Standard Edition",
+        "keyImages": [
+            {
+                "type": "DieselGameBoxLogo",
+                "url": "https://cdn1.epicgames.com/epic/offer/WatchDogs2_Logo_White-2208x368-af0e8beb8ed46fb18607855cf6a7ba73.png"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/epic/offer/WatchDogs2_wide-960x540-a1edaa2b27f11e4724c35ba766d777dd.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc"
+            }
+        ]
+    },
+    {
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1349,
+                "originalPrice": 8999,
+                "voucherDiscount": 0,
+                "discount": 7650,
+                "fmtPrice": {
+                    "originalPrice": "R$ 89,99",
+                    "discountPrice": "R$ 13,49",
+                    "intermediatePrice": "R$ 13,49"
+                },
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2,
+                    "symbol": "R$"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "5e465298ff4a4de18b3342872979b733",
+                            "endDate": "2023-06-15T15:00:00.000Z"
+                        }
+                    ]
+                }
+            ]
+        },
+        "title": "The Division 2 Standard Edition",
+        "keyImages": [
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b"
+            },
+            {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b"
+            },
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/impala/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5_2580x1450-f784f5581ef2409cdf99b44ce7535de5"
+            },
+            {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/offer/impala/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5_2580x1450-f784f5581ef2409cdf99b44ce7535de5"
+            },
+            {
+                "type": "DieselGameBoxLogo",
+                "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_Logo_Color-1000x375-6fd59444b232a262056d9bc9b7579cff_1000x375-6fd59444b232a262056d9bc9b7579cff"
+            }
+        ]
+    }
+]
+}

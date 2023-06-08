@@ -1,0 +1,26 @@
+@import '../../styles/variables';
+
+.card--simple {
+    display: flex;
+    align-items: center;
+    height: 90px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 4px;
+    transition: background-color 0.5s;
+
+    &:hover {
+        background-color: $dark-light;
+        cursor: pointer;
+    }
+
+    img {
+        height: 58px;
+        border-radius: 8px;
+        margin-right: 8px;
+    }
+
+    &.active {
+        background-color: $dark-light;
+    }
+}

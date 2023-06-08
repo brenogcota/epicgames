@@ -1,0 +1,300 @@
+{
+    "data": [
+        {
+            "title": "The Outlast Trials",
+            "images": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 8099,
+                    "originalPrice": 8099,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "R$ 80,99",
+                        "discountPrice": "R$ 80,99",
+                        "intermediatePrice": "R$ 80,99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "Em meio à Guerra Fria, voluntários relutantes foram recrutados pela Murkoff Corporation para testar métodos novos de lavagem cerebral e controle mental. Trabalhe junto com seus amigos em um mundo de desconfiança, medo e violência, e tente sobreviver a The Outlast Trials."
+        },
+        {
+            "title": "STAR WARS Jedi: Survivor™",
+            "images": [
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S1_2560x1440-f9e8bb0209bb9ec26636838fbc3dcd85"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S1_2560x1440-f9e8bb0209bb9ec26636838fbc3dcd85"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 29900,
+                    "originalPrice": 29900,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "R$ 299,00",
+                        "discountPrice": "R$ 299,00",
+                        "intermediatePrice": "R$ 299,00"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "A história de Cal Kestis continua em STAR WARS Jedi: Survivor™, um jogo de ação e aventura em terceira pessoa por toda a galáxia feito por Respawn Entertainment e Lucasfilm Games."
+        },
+        {
+            "title": "System Shock",
+            "images": [
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S3-2560x1440-955046ca7b8e5ad70907c1380d1687bd.jpg"
+                },
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0.jpg"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0.jpg"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S3-2560x1440-955046ca7b8e5ad70907c1380d1687bd.jpg"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/e49aaa31c1324e398e0b1029a0c6d390/offer/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0.jpg"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 19900,
+                    "originalPrice": 19900,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "R$ 199,00",
+                        "discountPrice": "R$ 199,00",
+                        "intermediatePrice": "R$ 199,00"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "Você acorda a bordo da Citadel Station, uma importante instalação de pesquisa da TriOptimum. Mutantes devoram ex-tripulantes da instalação e pesadelos em carne viva presos a peças metálicas rondam os corredores escuros enquanto a inteligência artificial da estação, SHODAN, mir..."
+        },
+        {
+            "title": "Sins of a Solar Empire 2",
+            "images": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S2_1200x1600-a6b3bd273eaca243fcce3a92b4e786d1"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S1_2560x1440-82cc02b731d299c46aae476bd0dd2f76"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S2_1200x1600-a6b3bd273eaca243fcce3a92b4e786d1"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_S2_1200x1600-a6b3bd273eaca243fcce3a92b4e786d1"
+                },
+                {
+                    "type": "ProductLogo",
+                    "url": "https://cdn1.epicgames.com/offer/24285307a56445f1bc5d546df7af3025/EGS_SinsofaSolarEmpire2_IroncladGames_IC1_400x400-495e4722437dafb4acee84a00a0b0cf4"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "Battle for galactic dominance as one of three unique races in a real-time strategy game with unrivaled scale! You’ll explore, expand, exploit, and exterminate through military force, diplomacy, trade, cultural influence, and other underhanded tactics."
+        },
+        {
+            "title": "Honkai: Star Rail",
+            "images": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/EPIC1200x1600-EN_1200x1600-655b26e317c90057d360900063f9be22"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/EPIC2560x1440-EN_2560x1440-e3a424594bad5b013ef4a19625f05146"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/offer/a2dcbb9e34204bda9da8415f97b3f4ea/EPIC1200x1600-EN_1200x1600-655b26e317c90057d360900063f9be22"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 0,
+                    "originalPrice": 0,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "0",
+                        "discountPrice": "0",
+                        "intermediatePrice": "0"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "Honkai: Star Rail"
+        },
+        {
+            "title": "Among Us",
+            "images": [
+                {
+                    "type": "OfferImageTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31"
+                },
+                {
+                    "type": "DieselStoreFrontTall",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31"
+                },
+                {
+                    "type": "Thumbnail",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31"
+                },
+                {
+                    "type": "CodeRedemption_340x440",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31"
+                },
+                {
+                    "type": "OfferImageWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075"
+                },
+                {
+                    "type": "DieselStoreFrontWide",
+                    "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075"
+                }
+            ],
+            "price": {
+                "totalPrice": {
+                    "discountPrice": 999,
+                    "originalPrice": 999,
+                    "voucherDiscount": 0,
+                    "discount": 0,
+                    "currencyCode": "BRL",
+                    "currencyInfo": {
+                        "decimals": 2
+                    },
+                    "fmtPrice": {
+                        "originalPrice": "R$ 9,99",
+                        "discountPrice": "R$ 9,99",
+                        "intermediatePrice": "R$ 9,99"
+                    }
+                },
+                "lineOffers": [
+                    {
+                        "appliedRules": []
+                    }
+                ]
+            },
+            "description": "Jogue com 4 a 10 jogadores online ou na sua rede Wi-Fi enquanto prepara sua nave para decolar, mas cuidado! Um ou mais jogadores aleatórios da Tripulação são Impostores e estão doidos pra matar geral!"
+        }
+    ]
+}

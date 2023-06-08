@@ -1,0 +1,28 @@
+@import '../../../styles/variables';
+
+.main {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    gap: 40px;
+
+    &--banner {
+        position: relative;
+        img {
+            width: 1152px;
+            height: 648px;
+        }
+    }
+
+    &--banner-info {
+        position: absolute;
+        bottom: 0px;
+        padding: 70px;
+
+        button {
+          color: $dark;
+          background: $white;
+        }
+    }
+
+}
